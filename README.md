@@ -2,8 +2,12 @@
 ### A Complete Tutorial — From Absolute Beginner to Production Systems
 
 > *"The leaders who will thrive aren't the ones who figured out AI fastest.  
-> They're the ones doubling down on what AI can't replicate."*  
-> — Laysha Ward
+> They're the ones doubling down on what AI can't replicate — the courage  
+> to have a hard conversation, the creativity that comes from collaboration,  
+> and the connection currency that comes from the relationships that we  
+> build and nurture."*  
+> — Laysha Ward  
+> <sub>Author, C-Suite Leader, Board Member, Speaker, and LinkedIn Learning Instructor</sub>
 
 ---
 
@@ -88,6 +92,8 @@ That's not academic. That's production.
 ## Tutorial Structure
 
 ```
+PREFACE — The Only Principle That Matters
+
 PART 1 — WHY HASKELL EXISTS
   The programming paradigm landscape
   What Haskell is good at
@@ -106,9 +112,14 @@ PART 4 — ADVANCED
   Architecture Patterns, Databases, Production Systems
 
 PART 5 — CAPSTONE PROJECT
-  Build a real-world parser from scratch
+  Build a real-world X12 claims engine from scratch
   Full test suite required
   Instructor grading rubric included
+
+FINAL — What's Missing?
+  What library does Haskell need that doesn't exist?
+  Could you build it? Would you publish it?
+  The bridge from student to ecosystem contributor
 
 APPENDIX — Industry Applications
   When to use Haskell. When not to.
@@ -163,6 +174,31 @@ XF-Interchange LLC builds precision software infrastructure
 for industries where correctness is not optional.
 
 > *"The technology is precise. The purpose is simple: the system should work."*
+
+---
+
+## A Final Word Before We Begin
+
+> *"The leaders who will thrive aren't the ones who figured out AI fastest.  
+> They're the ones doubling down on what AI can't replicate — the courage  
+> to have a hard conversation, the creativity that comes from collaboration,  
+> and the connection currency that comes from the relationships that we  
+> build and nurture."*  
+> — Laysha Ward  
+> <sub>Author, C-Suite Leader, Board Member, Speaker, and LinkedIn Learning Instructor</sub>
+
+The leaders who will thrive in a world increasingly shaped by automation
+are not the ones who figured out the tools fastest. They are the ones who
+understand *why* a tool exists — what problem it was built to solve, what
+tradeoffs it made, what it is genuinely good for.
+
+That understanding cannot be automated. It comes from study, from building
+real things, from being honest about what works and what doesn't.
+
+This tutorial is an attempt to give you that understanding — for one
+precise, powerful, and often misunderstood tool.
+
+**Let's begin.**
 
 ---
 
