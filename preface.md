@@ -18,7 +18,7 @@ Those problems require a different kind of thinking. And thinking shapes tools.
 
 ## The Right Tool for the Right Task
 
-The author of this tutorial built a production healthcare claims validation system in Haskell.
+The team at XF-Interchange LLC built a production healthcare claims validation system in Haskell.
 
 It processes X12 837D EDI files — the standard format used to submit dental insurance claims in the United States. It validates those claims against payer-specific rules before they ever reach a clearinghouse. It auto-corrects errors where it legally can, holds claims for human review where it cannot, and maintains an evidence-grade audit trail of every decision it makes.
 
