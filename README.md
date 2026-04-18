@@ -76,7 +76,7 @@ Not at runtime. Not in production. At compile time.
 
 ## Proof of Concept
 
-This tutorial was written by the team at XF-Interchange LLC,  
+This tutorial is maintained by the team at XF-Interchange LLC,  
 builders of **SeidoClaims** — a production healthcare claims validation platform.
 
 SeidoClaims processes X12 837D EDI files, validates them against  
@@ -119,7 +119,10 @@ PART 5 — CAPSTONE PROJECT
 FINAL — What's Missing?
   What library does Haskell need that doesn't exist?
   Could you build it? Would you publish it?
-  The bridge from student to ecosystem contributor
+  This is where learning ends and building what's necessary begins.
+  Not just for monetary purposes — but to expand the ecosystem,
+  contribute to its growth, and help fade away the doubt
+  that has followed this language for too long.
 
 APPENDIX — Industry Applications
   When to use Haskell. When not to.
@@ -170,10 +173,11 @@ Attribution appreciated but not required.
 
 ## About XF-Interchange
 
-XF-Interchange LLC builds precision software infrastructure  
-for industries where correctness is not optional.
+XF-Interchange LLC identifies critical gaps in industries
+where data integrity is not optional — and builds the
+precision infrastructure to fill them.
 
-> *"The technology is precise. The purpose is simple: the system should work."*
+*Shibumi — quietly, elegantly met.*
 
 ---
 

@@ -28,7 +28,7 @@ It was built in Haskell not because Haskell is popular. Not because it was the f
 
 It was built in Haskell because when the problem was examined honestly — what does it take to guarantee correctness in a system where errors have real human consequences — Haskell was the answer the problem gave back.
 
-**If Assembler had been the right answer, we would be talking about Assembler.**
+**If Assembly language had been the right answer, we would be talking about the Assembly language.**
 
 That is the only principle this tutorial is built on.
 
@@ -97,6 +97,15 @@ These are facts, not complaints. A carpenter who only tells you about the jobs a
 ---
 
 ## A Final Word Before We Begin
+
+> *"The leaders who will thrive aren't the ones who figured out AI fastest.
+> They're the ones doubling down on what AI can't replicate — the courage
+> to have a hard conversation, the creativity that comes from collaboration,
+> and the connection currency that comes from the relationships that we
+> build and nurture."*
+>
+> — Laysha Ward
+> <sub>Author, C-Suite Leader, Board Member, Speaker, and LinkedIn Learning Instructor</sub>
 
 The leaders who will thrive in a world increasingly shaped by automation are not the ones who figured out the tools fastest. They are the ones who understand *why* a tool exists — what problem it was built to solve, what tradeoffs it made, what it is genuinely good for.
 
