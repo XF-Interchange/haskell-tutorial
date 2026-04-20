@@ -260,4 +260,4 @@ By the end of this tutorial, you will know where Haskell wins, where it loses, a
 ---
 
 *Haskell in Production — XF-Interchange LLC*
-*MIT License — Copyright 2026 XF-Interchange LLC*
+*MIT License — Copyright 2026 XF-Interchange LLC* 

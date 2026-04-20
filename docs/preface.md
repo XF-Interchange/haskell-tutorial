@@ -94,6 +94,8 @@ These are facts, not complaints. A carpenter who only tells you about the jobs a
 
 **If you are an instructor:** Every chapter includes learning objectives, common mistakes, chapter assessments, and instructor notes. The capstone project includes a complete grading rubric. Chapters can be assigned independently or as a complete course.
 
+**A word on AI-assisted learning:** This tutorial was written in an era when AI tools can generate Haskell code on demand. Use them. They lower the friction of learning significantly — the wall became a conversation. But be clear about what AI does and does not do. A developer who uses AI to generate code they do not understand is not a Haskell developer. They are a prompt writer who produces Haskell-shaped output. AI removes the blockers. The understanding is still yours to build.
+
 ---
 
 ## A Final Word Before We Begin

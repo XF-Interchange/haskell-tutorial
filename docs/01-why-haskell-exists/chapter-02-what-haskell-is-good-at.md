@@ -84,10 +84,9 @@ Most programming languages represent decimal numbers in a way that introduces ti
 ```
 $0.10 in most languages is actually stored as:
 0.1000000000000000055511151231257827021181583404541015625
-
-That difference is invisible to a user.
-It is not invisible to a financial audit.
 ```
+
+This is called floating-point representation. It is not a bug — it is how binary numbers work. Computers store numbers in binary, and most decimal fractions cannot be represented exactly in binary, just as the fraction one-third cannot be represented exactly in decimal. But in financial systems, it is a problem.
 
 Haskell has precise numeric types that eliminate this problem entirely. A financial calculation in Haskell produces an exact result — not an approximation.
 

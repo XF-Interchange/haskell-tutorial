@@ -352,4 +352,4 @@ After Chapter 3, students should have a clear, honest picture of what Haskell is
 ---
 
 *Haskell in Production — XF-Interchange LLC*
-*MIT License — Copyright 2026 XF-Interchange LLC*
+*MIT License — Copyright 2026 XF-Interchange LLC* 
