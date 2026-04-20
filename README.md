@@ -183,18 +183,10 @@ precision infrastructure to fill them.
 
 ## A Final Word Before We Begin
 
-> *"The leaders who will thrive aren't the ones who figured out AI fastest.  
-> They're the ones doubling down on what AI can't replicate — the courage  
-> to have a hard conversation, the creativity that comes from collaboration,  
-> and the connection currency that comes from the relationships that we  
-> build and nurture."*  
-> — Laysha Ward  
-> <sub>Author, C-Suite Leader, Board Member, Speaker, and LinkedIn Learning Instructor</sub>
-
-The leaders who will thrive in a world increasingly shaped by automation
-are not the ones who figured out the tools fastest. They are the ones who
-understand *why* a tool exists — what problem it was built to solve, what
-tradeoffs it made, what it is genuinely good for.
+As Laysha Ward reminds us — the leaders who will thrive are not the ones
+who figured out the tools fastest. They are the ones who understand *why*
+a tool exists — what problem it was built to solve, what tradeoffs it made,
+what it is genuinely good for.
 
 That understanding cannot be automated. It comes from study, from building
 real things, from being honest about what works and what doesn't.
